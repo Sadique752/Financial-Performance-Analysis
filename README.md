@@ -45,5 +45,6 @@
 https://github.com/user-attachments/assets/83849ceb-45b7-45ba-b0ee-a529a2ece3fe
 
 
-![image](https://github.com/user-attachments/assets/5bacb9ab-173f-4b27-8683-47273cef3594) LinkedIn : www.linkedin.com/in/md-sadique-52778a243
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/md-sadique-52778a243)
+
 
