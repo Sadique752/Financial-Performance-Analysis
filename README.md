@@ -16,7 +16,7 @@
 - What are Country wise Sales and Profit? 
 - What are Sales by Product with Discount Band?
 
-## Insights we have found from Data 
+### Insights we have found from Data 
 - 14.23% is the profit Margin Percentage. 
 - Around 9.21M is Total Discount. 
 - Total Revenue Generated 127.93M. 
