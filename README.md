@@ -46,6 +46,6 @@
 https://github.com/user-attachments/assets/83849ceb-45b7-45ba-b0ee-a529a2ece3fe
 
 
-Contact Me : [LinkedIn](www.linkedin.com/in/mdsadiqueofficial)
+Contact Me : [LinkedIn](www.linkedin.com/in/mdsadiqueofficial/)
 
 
