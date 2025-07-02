@@ -1,4 +1,4 @@
-# Finanacial Performance Dashboard of Products
+# Finanacial Performance Analysis of Products
 
 ## Objective
 
